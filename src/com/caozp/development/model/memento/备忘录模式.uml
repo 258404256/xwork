@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="68.0" y="67.0">com.caozp.development.model.memento.CareTaker</node>
+    <node x="-435.0" y="-255.0">com.caozp.development.model.memento.Emp</node>
+    <node x="24.0" y="-257.0">com.caozp.development.model.memento.EmpMemento</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.caozp.development.model.memento.CareTaker" target="com.caozp.development.model.memento.EmpMemento">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.caozp.development.model.memento.Emp" target="com.caozp.development.model.memento.EmpMemento">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="0.0" y="0.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
